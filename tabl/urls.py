@@ -6,4 +6,4 @@ router = routers.DefaultRouter()
 router.register('api/tabl', TablViewSet, 'tabl')
 
 
-urlpatterns = routers.urls
+urlpatterns = router.urls

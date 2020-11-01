@@ -1,0 +1,13 @@
+
+import React, { Fragment } from 'react';
+import Form from './Form';
+import List from './List';
+
+export default function DashBoard() {
+    return (
+        <Fragment>
+            <Form />
+            <List />
+        </Fragment>
+    )
+}

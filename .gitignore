@@ -117,3 +117,5 @@ media/
 # !**/migrations
 # !**/migrations/__init__.py
 
+#node
+node_modules
